@@ -23,7 +23,7 @@
 
 <div align="center">
     <sub>Built with ❤︎ by
-        <a href="https://github.com/gouravkhunger">Gourav Khunger</a>
+        <a href="https://github.com/gouravkhunger"><b>Gourav Khunger<b/></a>
     </sub>
 </div>
 
